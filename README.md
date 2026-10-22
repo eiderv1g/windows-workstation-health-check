@@ -19,6 +19,12 @@ The script will read system information only. It will not change system settings
 
 Reports generated from a real computer will not be published because they may contain identifying system information.
 
+## Sample Report
+
+[View the fictional sample CSV](examples/sample-report.csv).
+
+> **Privacy note:** This is a fictional sample report created for demonstration purposes. It contains no data from a real computer. Actual reports may include identifying system information and are not published for privacy reasons.
+
 ## Project Status
 
 Phase 1: project definition.
@@ -42,3 +48,10 @@ Phase 2: initial script implemented.
 ### Run summary
 
 ![Health-check run summary](screenshots/phase-2-run-summary.png)
+
+## Phase 3 Screenshots
+
+### Sample report
+
+![Fictional sample CSV report](screenshots/phase-3-sample-report.png)
+
