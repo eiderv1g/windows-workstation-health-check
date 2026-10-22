@@ -22,7 +22,22 @@ Reports generated from a real computer will not be published because they may co
 ## Project Status
 
 Phase 1: project definition.
+Phase 2: initial script implemented.
 
 ## Documentation
 
 - [Phase 1: Project Definition](docs/phase-1-project-definition.md)
+
+## Phase 1 Screenshot
+
+![Phase 1 project definition in Visual Studio Code](screenshots/phase-1-project-definition.png)
+
+## Phase 2 Screenshots
+
+### Script
+
+![PowerShell health-check script](screenshots/phase-2-script-in-editor.png)
+
+### Run summary
+
+![Health-check run summary](screenshots/phase-2-run-summary.png)
