@@ -1,0 +1,8 @@
+"Check","Status","Details","CollectedAt"
+"System information","OK","Computer: DEMO-WIN11-01; OS: Windows 11 Pro; Version: 10.0.26100; Last boot: 2026-01-15 08:00","2026-01-15 10:30:00"
+"Disk C:","OK","C: has 32.5% free (195 GB free of 600 GB).","2026-01-15 10:30:00"
+"Disk D:","Warning","D: has 8% free (16 GB free of 200 GB).","2026-01-15 10:30:00"
+"Service: EventLog","OK","Service status is Running.","2026-01-15 10:30:00"
+"Service: Winmgmt","OK","Service status is Running.","2026-01-15 10:30:00"
+"Service: Schedule","Warning","Service status is Stopped.","2026-01-15 10:30:00"
+"Recent System errors","Warning","3 error event(s) found in the last 7 day(s). Review them in context.","2026-01-15 10:30:00"

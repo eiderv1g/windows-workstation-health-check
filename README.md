@@ -27,6 +27,7 @@ Phase 2: initial script implemented.
 ## Documentation
 
 - [Phase 1: Project Definition](docs/phase-1-project-definition.md)
+- [Phase 1: Script Implementation](/docs/phase-2-script-implementation.md)
 
 ## Phase 1 Screenshot
 
